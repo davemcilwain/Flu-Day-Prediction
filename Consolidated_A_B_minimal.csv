@@ -1,0 +1,1333 @@
+Study,Category,Consolidated Name,reagent,median
+Study A,B cells,B Cells Plasma STAT5+,CD27,132.6586761
+Study A,Granulocytes,Basophils,CD27,1.195079386
+Study A,B cells,B Cells,CD27,1.931013882
+Study A,B cells,B Cells CSM,CD27,13.4996438
+Study A,B cells,B Cells NCSM,CD27,10.07239103
+Study A,B cells,B Cells Plasma,CD27,9.34533453
+Study A,Granulocytes,CD66+,CD27,1.130263329
+Study A,NK cells,NK CD56+CD16- Cells,CD27,3.196724951
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD27,2.805860519
+Study A,NK cells,NK CD56loCD16+ Cells,CD27,1.686382264
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD27,1.762641758
+Study A,NK cells,NKT Cells,CD27,9.080432296
+Study A,NK cells,NKT Cells CD38+,CD27,16.20759392
+Study A,CD4 T cells,CD3+,CD27,36.7906065
+Study A,CD4 T cells,CD4 T Cells,CD27,42.79490566
+Study A,CD4 T cells,CD4 T Cells CD38+,CD27,64.68922424
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD27,44.51095676
+Study A,CD4 T cells,CD4 T Cells Memory,CD27,35.70484161
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD27,59.52972126
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD27,41.88478756
+Study A,CD8 T cells,CD8 T Cells,CD27,32.54039383
+Study A,CD4 T cells,CD4 T Cells CD161+,CD27,9.593300819
+Study A,CD8 T cells,CD8 T Cells CD161+,CD27,52.87235451
+Study A,CD8 T cells,CD8 T Cells CD38+,CD27,39.03863716
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD27,2.14974314
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD27,2.440747261
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD27,2.279050231
+Study A,CD8 T cells,CD8 T Cells Memory,CD27,32.4332056
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD27,68.20241547
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD27,60.973526
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD27,2.202317119
+Study A,Monocytes,cMCs,CD27,2.21904254
+Study A,Monocytes,intMCs,CD27,2.310616434
+Study A,Dendritic cells,mDCs,CD27,2.003030777
+Study A,Monocytes,ncMCs,CD27,2.167566299
+Study A,Dendritic cells,pDCs,CD27,2.11243093
+Study A,Dendritic cells,pDC CD38+,CD27,2.12322998
+Study A,B cells,B Cells Plasma STAT5+,CD45RA,421.2224121
+Study A,Granulocytes,Basophils,CD45RA,16.98595476
+Study A,B cells,B Cells,CD45RA,410.3299561
+Study A,B cells,B Cells CSM,CD45RA,480.5560226
+Study A,B cells,B Cells NCSM,CD45RA,635.793457
+Study A,B cells,B Cells Plasma,CD45RA,258.6719666
+Study A,Granulocytes,CD66+,CD45RA,7.74380064
+Study A,NK cells,NK CD56+CD16- Cells,CD45RA,397.7447205
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD45RA,323.7151184
+Study A,NK cells,NK CD56loCD16+ Cells,CD45RA,586.998703
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD45RA,503.0894089
+Study A,NK cells,NKT Cells,CD45RA,579.8108368
+Study A,NK cells,NKT Cells CD38+,CD45RA,843.9189453
+Study A,CD4 T cells,CD3+,CD45RA,39.99736118
+Study A,CD4 T cells,CD4 T Cells,CD45RA,23.39340115
+Study A,CD4 T cells,CD4 T Cells CD38+,CD45RA,38.6075325
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD45RA,30.51654816
+Study A,CD4 T cells,CD4 T Cells Memory,CD45RA,15.67179084
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD45RA,19.92826128
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD45RA,21.02766943
+Study A,CD8 T cells,CD8 T Cells,CD45RA,157.575798
+Study A,CD4 T cells,CD4 T Cells CD161+,CD45RA,28.06448698
+Study A,CD8 T cells,CD8 T Cells CD161+,CD45RA,88.37541771
+Study A,CD8 T cells,CD8 T Cells CD38+,CD45RA,49.74499512
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD45RA,291.4424973
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD45RA,636.3213501
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD45RA,412.3064575
+Study A,CD8 T cells,CD8 T Cells Memory,CD45RA,21.52696657
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD45RA,19.6908288
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD45RA,22.91546345
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD45RA,289.8467407
+Study A,Monocytes,cMCs,CD45RA,34.73082924
+Study A,Monocytes,intMCs,CD45RA,68.25284576
+Study A,Dendritic cells,mDCs,CD45RA,70.72854233
+Study A,Monocytes,ncMCs,CD45RA,261.038002
+Study A,Dendritic cells,pDCs,CD45RA,300.1463928
+Study A,Dendritic cells,pDC CD38+,CD45RA,310.4384766
+Study A,B cells,B Cells Plasma STAT5+,CD14,9.755679131
+Study A,Granulocytes,Basophils,CD14,7.414293051
+Study A,B cells,B Cells,CD14,7.088505268
+Study A,B cells,B Cells CSM,CD14,8.061233044
+Study A,B cells,B Cells NCSM,CD14,7.097288489
+Study A,B cells,B Cells Plasma,CD14,13.96623611
+Study A,Granulocytes,CD66+,CD14,13.99298906
+Study A,NK cells,NK CD56+CD16- Cells,CD14,5.838304996
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD14,6.593385935
+Study A,NK cells,NK CD56loCD16+ Cells,CD14,6.166827202
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD14,6.813611031
+Study A,NK cells,NKT Cells,CD14,10.31398773
+Study A,NK cells,NKT Cells CD38+,CD14,10.40397596
+Study A,CD4 T cells,CD3+,CD14,5.059667468
+Study A,CD4 T cells,CD4 T Cells,CD14,4.989181995
+Study A,CD4 T cells,CD4 T Cells CD38+,CD14,6.025666237
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD14,7.334101439
+Study A,CD4 T cells,CD4 T Cells Memory,CD14,5.057629943
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD14,5.949758291
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD14,6.856068969
+Study A,CD8 T cells,CD8 T Cells,CD14,5.163612843
+Study A,CD4 T cells,CD4 T Cells CD161+,CD14,5.415999651
+Study A,CD8 T cells,CD8 T Cells CD161+,CD14,6.356266975
+Study A,CD8 T cells,CD8 T Cells CD38+,CD14,7.904465675
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD14,5.184797168
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD14,6.359777451
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD14,6.723883152
+Study A,CD8 T cells,CD8 T Cells Memory,CD14,5.023511291
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD14,5.933255434
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD14,6.742897987
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD14,5.436420202
+Study A,Monocytes,cMCs,CD14,134.0589333
+Study A,Monocytes,intMCs,CD14,43.62524509
+Study A,Dendritic cells,mDCs,CD14,9.285407782
+Study A,Monocytes,ncMCs,CD14,8.780022144
+Study A,Dendritic cells,pDCs,CD14,8.04386282
+Study A,Dendritic cells,pDC CD38+,CD14,8.092947721
+Study A,B cells,B Cells Plasma STAT5+,CD8,4.810422421
+Study A,Granulocytes,Basophils,CD8,3.831903636
+Study A,B cells,B Cells,CD8,3.461659372
+Study A,B cells,B Cells CSM,CD8,3.930045187
+Study A,B cells,B Cells NCSM,CD8,3.913341641
+Study A,B cells,B Cells Plasma,CD8,4.691282868
+Study A,Granulocytes,CD66+,CD8,4.358508348
+Study A,NK cells,NK CD56+CD16- Cells,CD8,4.562339783
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD8,4.769463301
+Study A,NK cells,NK CD56loCD16+ Cells,CD8,5.973384261
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD8,6.32589519
+Study A,NK cells,NKT Cells,CD8,19.79632616
+Study A,NK cells,NKT Cells CD38+,CD8,25.58945751
+Study A,CD4 T cells,CD3+,CD8,8.243739128
+Study A,CD4 T cells,CD4 T Cells,CD8,5.184857488
+Study A,CD4 T cells,CD4 T Cells CD38+,CD8,5.950515747
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD8,6.397885561
+Study A,CD4 T cells,CD4 T Cells Memory,CD8,5.068069816
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD8,5.646559238
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD8,5.942038894
+Study A,CD8 T cells,CD8 T Cells,CD8,348.5217285
+Study A,CD4 T cells,CD4 T Cells CD161+,CD8,116.2571545
+Study A,CD8 T cells,CD8 T Cells CD161+,CD8,338.440033
+Study A,CD8 T cells,CD8 T Cells CD38+,CD8,269.5333557
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD8,261.9064331
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD8,214.5003815
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD8,212.5408401
+Study A,CD8 T cells,CD8 T Cells Memory,CD8,254.2561493
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD8,282.6206207
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD8,249.4808807
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD8,261.1447525
+Study A,Monocytes,cMCs,CD8,3.321038544
+Study A,Monocytes,intMCs,CD8,4.393884778
+Study A,Dendritic cells,mDCs,CD8,3.663486004
+Study A,Monocytes,ncMCs,CD8,3.634611845
+Study A,Dendritic cells,pDCs,CD8,4.266137958
+Study A,Dendritic cells,pDC CD38+,CD8,4.278123498
+Study A,B cells,B Cells Plasma STAT5+,CD4,33.30167389
+Study A,Granulocytes,Basophils,CD4,17.56491184
+Study A,B cells,B Cells,CD4,24.91573238
+Study A,B cells,B Cells CSM,CD4,27.71113205
+Study A,B cells,B Cells NCSM,CD4,24.50684881
+Study A,B cells,B Cells Plasma,CD4,43.14118099
+Study A,Granulocytes,CD66+,CD4,23.56699848
+Study A,NK cells,NK CD56+CD16- Cells,CD4,19.4030838
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD4,23.11503029
+Study A,NK cells,NK CD56loCD16+ Cells,CD4,18.55518246
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD4,21.39354515
+Study A,NK cells,NKT Cells,CD4,94.40846252
+Study A,NK cells,NKT Cells CD38+,CD4,93.50413513
+Study A,CD4 T cells,CD3+,CD4,164.7766266
+Study A,CD4 T cells,CD4 T Cells,CD4,244.0934067
+Study A,CD4 T cells,CD4 T Cells CD38+,CD4,268.1678619
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD4,263.2724762
+Study A,CD4 T cells,CD4 T Cells Memory,CD4,246.8651352
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD4,273.4422836
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD4,263.7789612
+Study A,CD8 T cells,CD8 T Cells,CD4,56.24862671
+Study A,CD4 T cells,CD4 T Cells CD161+,CD4,43.11812878
+Study A,CD8 T cells,CD8 T Cells CD161+,CD4,63.35503769
+Study A,CD8 T cells,CD8 T Cells CD38+,CD4,63.08324814
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD4,48.81303406
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD4,49.85901642
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD4,50.1870718
+Study A,CD8 T cells,CD8 T Cells Memory,CD4,50.98758316
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD4,58.16401863
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD4,57.68816566
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD4,51.37748432
+Study A,Monocytes,cMCs,CD4,44.04283714
+Study A,Monocytes,intMCs,CD4,56.08466434
+Study A,Dendritic cells,mDCs,CD4,48.90922832
+Study A,Monocytes,ncMCs,CD4,43.73662472
+Study A,Dendritic cells,pDCs,CD4,128.3316803
+Study A,Dendritic cells,pDC CD38+,CD4,123.8655529
+Study A,B cells,B Cells Plasma STAT5+,CD3,36.8743515
+Study A,Granulocytes,Basophils,CD3,23.43629217
+Study A,B cells,B Cells,CD3,27.19987059
+Study A,B cells,B Cells CSM,CD3,31.06005859
+Study A,B cells,B Cells NCSM,CD3,29.5185318
+Study A,B cells,B Cells Plasma,CD3,35.92369843
+Study A,Granulocytes,CD66+,CD3,32.27507973
+Study A,NK cells,NK CD56+CD16- Cells,CD3,33.64444542
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD3,36.7213726
+Study A,NK cells,NK CD56loCD16+ Cells,CD3,31.15078878
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD3,34.3550415
+Study A,NK cells,NKT Cells,CD3,507.4702148
+Study A,NK cells,NKT Cells CD38+,CD3,522.3280029
+Study A,CD4 T cells,CD3+,CD3,602.916626
+Study A,CD4 T cells,CD4 T Cells,CD3,626.1132507
+Study A,CD4 T cells,CD4 T Cells CD38+,CD3,722.9828491
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD3,629.9589844
+Study A,CD4 T cells,CD4 T Cells Memory,CD3,588.1958313
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD3,685.9242859
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD3,606.8068848
+Study A,CD8 T cells,CD8 T Cells,CD3,565.2344971
+Study A,CD4 T cells,CD4 T Cells CD161+,CD3,578.6268311
+Study A,CD8 T cells,CD8 T Cells CD161+,CD3,618.0330505
+Study A,CD8 T cells,CD8 T Cells CD38+,CD3,568.8141632
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD3,541.0025635
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD3,560.1524658
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD3,531.6539917
+Study A,CD8 T cells,CD8 T Cells Memory,CD3,547.4070282
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD3,595.988266
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD3,553.0498657
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD3,539.5900879
+Study A,Monocytes,cMCs,CD3,26.37100792
+Study A,Monocytes,intMCs,CD3,33.93541527
+Study A,Dendritic cells,mDCs,CD3,31.25473785
+Study A,Monocytes,ncMCs,CD3,32.41285706
+Study A,Dendritic cells,pDCs,CD3,35.12377739
+Study A,Dendritic cells,pDC CD38+,CD3,35.71329212
+Study A,B cells,B Cells Plasma STAT5+,CD66,174.4342804
+Study A,Granulocytes,Basophils,CD66,123.7390022
+Study A,B cells,B Cells,CD66,112.7468586
+Study A,B cells,B Cells CSM,CD66,135.8240433
+Study A,B cells,B Cells NCSM,CD66,126.3954906
+Study A,B cells,B Cells Plasma,CD66,169.6391678
+Study A,Granulocytes,CD66+,CD66,2557.390442
+Study A,NK cells,NK CD56+CD16- Cells,CD66,84.1775589
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD66,95.07962036
+Study A,NK cells,NK CD56loCD16+ Cells,CD66,85.64011574
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD66,91.03524208
+Study A,NK cells,NKT Cells,CD66,225.7325363
+Study A,NK cells,NKT Cells CD38+,CD66,230.8819275
+Study A,CD4 T cells,CD3+,CD66,146.4027481
+Study A,CD4 T cells,CD4 T Cells,CD66,150.7434044
+Study A,CD4 T cells,CD4 T Cells CD38+,CD66,183.9096146
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD66,184.7776299
+Study A,CD4 T cells,CD4 T Cells Memory,CD66,150.2049942
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD66,181.2771072
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD66,178.4094849
+Study A,CD8 T cells,CD8 T Cells,CD66,138.023819
+Study A,CD4 T cells,CD4 T Cells CD161+,CD66,141.7363014
+Study A,CD8 T cells,CD8 T Cells CD161+,CD66,169.6437035
+Study A,CD8 T cells,CD8 T Cells CD38+,CD66,182.2027817
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD66,131.1057587
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD66,161.0087128
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD66,153.7262478
+Study A,CD8 T cells,CD8 T Cells Memory,CD66,134.6861305
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD66,160.913311
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD66,171.485054
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD66,133.9746552
+Study A,Monocytes,cMCs,CD66,156.8285408
+Study A,Monocytes,intMCs,CD66,209.7944069
+Study A,Dendritic cells,mDCs,CD66,157.5392952
+Study A,Monocytes,ncMCs,CD66,201.1919098
+Study A,Dendritic cells,pDCs,CD66,162.146225
+Study A,Dendritic cells,pDC CD38+,CD66,165.7200089
+Study A,B cells,B Cells Plasma STAT5+,CD45,172.4068909
+Study A,Granulocytes,Basophils,CD45,73.7623024
+Study A,B cells,B Cells,CD45,264.4288025
+Study A,B cells,B Cells CSM,CD45,256.0547638
+Study A,B cells,B Cells NCSM,CD45,309.8687515
+Study A,B cells,B Cells Plasma,CD45,256.4755859
+Study A,Granulocytes,CD66+,CD45,134.2416153
+Study A,NK cells,NK CD56+CD16- Cells,CD45,240.8499222
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD45,217.4172211
+Study A,NK cells,NK CD56loCD16+ Cells,CD45,368.5694504
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD45,336.9252777
+Study A,NK cells,NKT Cells,CD45,557.3082886
+Study A,NK cells,NKT Cells CD38+,CD45,660.7433472
+Study A,CD4 T cells,CD3+,CD45,304.9971466
+Study A,CD4 T cells,CD4 T Cells,CD45,288.8537445
+Study A,CD4 T cells,CD4 T Cells CD38+,CD45,307.9433594
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD45,312.0518494
+Study A,CD4 T cells,CD4 T Cells Memory,CD45,293.3306885
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD45,295.5087891
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD45,294.2744904
+Study A,CD8 T cells,CD8 T Cells,CD45,339.825676
+Study A,CD4 T cells,CD4 T Cells CD161+,CD45,331.191452
+Study A,CD8 T cells,CD8 T Cells CD161+,CD45,408.818924
+Study A,CD8 T cells,CD8 T Cells CD38+,CD45,415.4317169
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD45,401.9254837
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD45,509.4584351
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD45,445.3063202
+Study A,CD8 T cells,CD8 T Cells Memory,CD45,352.2210083
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD45,398.0217438
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD45,394.3050079
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD45,401.6914139
+Study A,Monocytes,cMCs,CD45,309.29776
+Study A,Monocytes,intMCs,CD45,423.4142914
+Study A,Dendritic cells,mDCs,CD45,163.7765274
+Study A,Monocytes,ncMCs,CD45,410.1476898
+Study A,Dendritic cells,pDCs,CD45,113.872797
+Study A,Dendritic cells,pDC CD38+,CD45,113.9079227
+Study A,B cells,B Cells Plasma STAT5+,CD56,55.19516373
+Study A,Granulocytes,Basophils,CD56,27.39242077
+Study A,B cells,B Cells,CD56,36.86422729
+Study A,B cells,B Cells CSM,CD56,38.99598217
+Study A,B cells,B Cells NCSM,CD56,38.70579433
+Study A,B cells,B Cells Plasma,CD56,53.44130993
+Study A,Granulocytes,CD66+,CD56,11.00399899
+Study A,NK cells,NK CD56+CD16- Cells,CD56,148.8817902
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD56,145.4876289
+Study A,NK cells,NK CD56loCD16+ Cells,CD56,61.06447506
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD56,74.8393898
+Study A,NK cells,NKT Cells,CD56,88.22941017
+Study A,NK cells,NKT Cells CD38+,CD56,94.56350327
+Study A,CD4 T cells,CD3+,CD56,25.58411741
+Study A,CD4 T cells,CD4 T Cells,CD56,25.63951159
+Study A,CD4 T cells,CD4 T Cells CD38+,CD56,29.93679333
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD56,40.18734169
+Study A,CD4 T cells,CD4 T Cells Memory,CD56,27.33771086
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD56,30.64164448
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD56,38.43203354
+Study A,CD8 T cells,CD8 T Cells,CD56,24.51059961
+Study A,CD4 T cells,CD4 T Cells CD161+,CD56,31.70908117
+Study A,CD8 T cells,CD8 T Cells CD161+,CD56,32.22329712
+Study A,CD8 T cells,CD8 T Cells CD38+,CD56,45.08254528
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD56,28.33834267
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD56,41.99525261
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD56,46.22501087
+Study A,CD8 T cells,CD8 T Cells Memory,CD56,26.07203722
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD56,30.72580767
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD56,39.46452332
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD56,30.76876068
+Study A,Monocytes,cMCs,CD56,40.46471405
+Study A,Monocytes,intMCs,CD56,49.21947479
+Study A,Dendritic cells,mDCs,CD56,53.1137867
+Study A,Monocytes,ncMCs,CD56,42.42293549
+Study A,Dendritic cells,pDCs,CD56,51.50186157
+Study A,Dendritic cells,pDC CD38+,CD56,53.07799911
+Study A,B cells,B Cells Plasma STAT5+,CD11c,2.206816196
+Study A,Granulocytes,Basophils,CD11c,8.388802052
+Study A,B cells,B Cells,CD11c,2.227627456
+Study A,B cells,B Cells CSM,CD11c,3.421599627
+Study A,B cells,B Cells NCSM,CD11c,1.912488759
+Study A,B cells,B Cells Plasma,CD11c,54.08036995
+Study A,Granulocytes,CD66+,CD11c,18.99132776
+Study A,NK cells,NK CD56+CD16- Cells,CD11c,27.62392235
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD11c,38.49443817
+Study A,NK cells,NK CD56loCD16+ Cells,CD11c,21.57013273
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD11c,25.10093021
+Study A,NK cells,NKT Cells,CD11c,20.95794201
+Study A,NK cells,NKT Cells CD38+,CD11c,30.23221016
+Study A,CD4 T cells,CD3+,CD11c,1.070524037
+Study A,CD4 T cells,CD4 T Cells,CD11c,0.949709058
+Study A,CD4 T cells,CD4 T Cells CD38+,CD11c,1.26674211
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD11c,1.691700727
+Study A,CD4 T cells,CD4 T Cells Memory,CD11c,0.943762451
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD11c,1.140457571
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD11c,1.429745346
+Study A,CD8 T cells,CD8 T Cells,CD11c,1.197348505
+Study A,CD4 T cells,CD4 T Cells CD161+,CD11c,1.051104844
+Study A,CD8 T cells,CD8 T Cells CD161+,CD11c,1.711341858
+Study A,CD8 T cells,CD8 T Cells CD38+,CD11c,2.183558851
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD11c,1.473908842
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD11c,6.066980839
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD11c,5.321799159
+Study A,CD8 T cells,CD8 T Cells Memory,CD11c,1.102550566
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD11c,1.322969109
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD11c,1.583128572
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD11c,1.58951056
+Study A,Monocytes,cMCs,CD11c,135.9160767
+Study A,Monocytes,intMCs,CD11c,213.6206894
+Study A,Dendritic cells,mDCs,CD11c,127.4954834
+Study A,Monocytes,ncMCs,CD11c,196.7265129
+Study A,Dendritic cells,pDCs,CD11c,2.123662412
+Study A,Dendritic cells,pDC CD38+,CD11c,2.251573086
+Study A,B cells,B Cells Plasma STAT5+,CD123,8.808138847
+Study A,Granulocytes,Basophils,CD123,147.1112061
+Study A,B cells,B Cells,CD123,4.834054708
+Study A,B cells,B Cells CSM,CD123,4.573629379
+Study A,B cells,B Cells NCSM,CD123,3.742330313
+Study A,B cells,B Cells Plasma,CD123,7.946514606
+Study A,Granulocytes,CD66+,CD123,2.987899423
+Study A,NK cells,NK CD56+CD16- Cells,CD123,2.795688391
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD123,3.802414715
+Study A,NK cells,NK CD56loCD16+ Cells,CD123,2.484235764
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD123,3.185228944
+Study A,NK cells,NKT Cells,CD123,5.101126432
+Study A,NK cells,NKT Cells CD38+,CD123,4.752868414
+Study A,CD4 T cells,CD3+,CD123,2.534792364
+Study A,CD4 T cells,CD4 T Cells,CD123,2.578915894
+Study A,CD4 T cells,CD4 T Cells CD38+,CD123,3.044454694
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD123,3.881551027
+Study A,CD4 T cells,CD4 T Cells Memory,CD123,2.626265109
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD123,2.947588623
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD123,3.507957578
+Study A,CD8 T cells,CD8 T Cells,CD123,2.499298811
+Study A,CD4 T cells,CD4 T Cells CD161+,CD123,2.673434973
+Study A,CD8 T cells,CD8 T Cells CD161+,CD123,3.143165052
+Study A,CD8 T cells,CD8 T Cells CD38+,CD123,4.114005566
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD123,2.298690856
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD123,2.79601562
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD123,3.324848294
+Study A,CD8 T cells,CD8 T Cells Memory,CD123,2.494845152
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD123,2.839093089
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD123,3.38288784
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD123,2.477862358
+Study A,Monocytes,cMCs,CD123,6.036582232
+Study A,Monocytes,intMCs,CD123,16.09589148
+Study A,Dendritic cells,mDCs,CD123,12.95893502
+Study A,Monocytes,ncMCs,CD123,15.55356693
+Study A,Dendritic cells,pDCs,CD123,305.1649017
+Study A,Dendritic cells,pDC CD38+,CD123,319.7353516
+Study A,B cells,B Cells Plasma STAT5+,CD7,7.067591667
+Study A,Granulocytes,Basophils,CD7,4.038357019
+Study A,B cells,B Cells,CD7,4.885893941
+Study A,B cells,B Cells CSM,CD7,5.197137713
+Study A,B cells,B Cells NCSM,CD7,5.304958582
+Study A,B cells,B Cells Plasma,CD7,6.388990402
+Study A,Granulocytes,CD66+,CD7,5.190902233
+Study A,NK cells,NK CD56+CD16- Cells,CD7,240.1973495
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD7,188.4186668
+Study A,NK cells,NK CD56loCD16+ Cells,CD7,141.6442909
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD7,121.107193
+Study A,NK cells,NKT Cells,CD7,106.0779533
+Study A,NK cells,NKT Cells CD38+,CD7,175.827076
+Study A,CD4 T cells,CD3+,CD7,32.34655476
+Study A,CD4 T cells,CD4 T Cells,CD7,29.00719452
+Study A,CD4 T cells,CD4 T Cells CD38+,CD7,31.82819176
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD7,23.74485207
+Study A,CD4 T cells,CD4 T Cells Memory,CD7,23.78961086
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD7,25.68318129
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD7,18.78673077
+Study A,CD8 T cells,CD8 T Cells,CD7,38.0718174
+Study A,CD4 T cells,CD4 T Cells CD161+,CD7,57.48473263
+Study A,CD8 T cells,CD8 T Cells CD161+,CD7,36.70317173
+Study A,CD8 T cells,CD8 T Cells CD38+,CD7,31.57147789
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD7,28.03396654
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD7,48.29247665
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD7,37.30366707
+Study A,CD8 T cells,CD8 T Cells Memory,CD7,35.31276417
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD7,29.77607059
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD7,26.40551567
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD7,28.59172726
+Study A,Monocytes,cMCs,CD7,5.108873606
+Study A,Monocytes,intMCs,CD7,5.545264244
+Study A,Dendritic cells,mDCs,CD7,5.186442614
+Study A,Monocytes,ncMCs,CD7,5.469427943
+Study A,Dendritic cells,pDCs,CD7,5.949400306
+Study A,Dendritic cells,pDC CD38+,CD7,5.995685697
+Study A,B cells,B Cells Plasma STAT5+,CD16,17.76894665
+Study A,Granulocytes,Basophils,CD16,15.19435716
+Study A,B cells,B Cells,CD16,14.42278361
+Study A,B cells,B Cells CSM,CD16,16.66654873
+Study A,B cells,B Cells NCSM,CD16,14.83150434
+Study A,B cells,B Cells Plasma,CD16,20.871665
+Study A,Granulocytes,CD66+,CD16,278.2710724
+Study A,NK cells,NK CD56+CD16- Cells,CD16,12.04387093
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD16,12.50850892
+Study A,NK cells,NK CD56loCD16+ Cells,CD16,146.2367249
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD16,126.2950382
+Study A,NK cells,NKT Cells,CD16,125.5426579
+Study A,NK cells,NKT Cells CD38+,CD16,178.6382294
+Study A,CD4 T cells,CD3+,CD16,7.22295022
+Study A,CD4 T cells,CD4 T Cells,CD16,7.219102383
+Study A,CD4 T cells,CD4 T Cells CD38+,CD16,8.427860737
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD16,10.21945667
+Study A,CD4 T cells,CD4 T Cells Memory,CD16,7.333878756
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD16,8.191978455
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD16,9.366510391
+Study A,CD8 T cells,CD8 T Cells,CD16,7.124175668
+Study A,CD4 T cells,CD4 T Cells CD161+,CD16,7.606855512
+Study A,CD8 T cells,CD8 T Cells CD161+,CD16,9.328265667
+Study A,CD8 T cells,CD8 T Cells CD38+,CD16,11.02538395
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD16,7.762086272
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD16,15.72587872
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD16,12.17550707
+Study A,CD8 T cells,CD8 T Cells Memory,CD16,6.882097244
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD16,7.87058568
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD16,9.12859869
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD16,8.107033253
+Study A,Monocytes,cMCs,CD16,16.78211212
+Study A,Monocytes,intMCs,CD16,87.55355453
+Study A,Dendritic cells,mDCs,CD16,20.93147993
+Study A,Monocytes,ncMCs,CD16,164.427597
+Study A,Dendritic cells,pDCs,CD16,15.47952342
+Study A,Dendritic cells,pDC CD38+,CD16,15.65579748
+Study A,B cells,B Cells Plasma STAT5+,Ki67,41.06165695
+Study A,Granulocytes,Basophils,Ki67,17.07391167
+Study A,B cells,B Cells,Ki67,17.95560598
+Study A,B cells,B Cells CSM,Ki67,20.39881706
+Study A,B cells,B Cells NCSM,Ki67,18.11618614
+Study A,B cells,B Cells Plasma,Ki67,28.13068295
+Study A,Granulocytes,CD66+,Ki67,9.637992859
+Study A,NK cells,NK CD56+CD16- Cells,Ki67,15.34404206
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,Ki67,39.36364269
+Study A,NK cells,NK CD56loCD16+ Cells,Ki67,12.50911617
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,Ki67,47.266572
+Study A,NK cells,NKT Cells,Ki67,20.27524137
+Study A,NK cells,NKT Cells CD38+,Ki67,21.30997658
+Study A,CD4 T cells,CD3+,Ki67,14.38703823
+Study A,CD4 T cells,CD4 T Cells,Ki67,15.11310291
+Study A,CD4 T cells,CD4 T Cells CD38+,Ki67,18.08711243
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,Ki67,40.02035809
+Study A,CD4 T cells,CD4 T Cells Memory,Ki67,16.09916162
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,Ki67,20.01382828
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,Ki67,41.28222752
+Study A,CD8 T cells,CD8 T Cells,Ki67,13.17159319
+Study A,CD4 T cells,CD4 T Cells CD161+,Ki67,15.48150158
+Study A,CD8 T cells,CD8 T Cells CD161+,Ki67,17.70414066
+Study A,CD8 T cells,CD8 T Cells CD38+,Ki67,47.51453114
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,Ki67,11.65962267
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,Ki67,13.82874489
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,Ki67,43.00893402
+Study A,CD8 T cells,CD8 T Cells Memory,Ki67,14.50505948
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,Ki67,19.1520505
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,Ki67,45.93803787
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,Ki67,11.74613857
+Study A,Monocytes,cMCs,Ki67,22.26808262
+Study A,Monocytes,intMCs,Ki67,22.27172518
+Study A,Dendritic cells,mDCs,Ki67,28.12519169
+Study A,Monocytes,ncMCs,Ki67,18.47694397
+Study A,Dendritic cells,pDCs,Ki67,25.38562059
+Study A,Dendritic cells,pDC CD38+,Ki67,25.53601265
+Study A,B cells,B Cells Plasma STAT5+,CD38,268.8873749
+Study A,Granulocytes,Basophils,CD38,38.1577301
+Study A,B cells,B Cells,CD38,9.474301338
+Study A,B cells,B Cells CSM,CD38,7.33464992
+Study A,B cells,B Cells NCSM,CD38,3.465452373
+Study A,B cells,B Cells Plasma,CD38,37.31094074
+Study A,Granulocytes,CD66+,CD38,4.32028842
+Study A,NK cells,NK CD56+CD16- Cells,CD38,27.29389
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD38,51.7135601
+Study A,NK cells,NK CD56loCD16+ Cells,CD38,39.61982346
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD38,60.49998093
+Study A,NK cells,NKT Cells,CD38,28.48330116
+Study A,NK cells,NKT Cells CD38+,CD38,81.20793533
+Study A,CD4 T cells,CD3+,CD38,2.869002461
+Study A,CD4 T cells,CD4 T Cells,CD38,3.194709003
+Study A,CD4 T cells,CD4 T Cells CD38+,CD38,61.23143959
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD38,45.91695499
+Study A,CD4 T cells,CD4 T Cells Memory,CD38,1.783560604
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD38,66.24836349
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD38,50.80693913
+Study A,CD8 T cells,CD8 T Cells,CD38,2.479070127
+Study A,CD4 T cells,CD4 T Cells CD161+,CD38,0.970560193
+Study A,CD8 T cells,CD8 T Cells CD161+,CD38,42.93801308
+Study A,CD8 T cells,CD8 T Cells CD38+,CD38,44.94547749
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD38,1.786366284
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD38,40.22553253
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD38,33.48365021
+Study A,CD8 T cells,CD8 T Cells Memory,CD38,1.336966008
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD38,48.11057568
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD38,50.11846924
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD38,1.948155612
+Study A,Monocytes,cMCs,CD38,26.24701309
+Study A,Monocytes,intMCs,CD38,11.32963252
+Study A,Dendritic cells,mDCs,CD38,24.20424175
+Study A,Monocytes,ncMCs,CD38,3.015606463
+Study A,Dendritic cells,pDCs,CD38,20.60818005
+Study A,Dendritic cells,pDC CD38+,CD38,29.18269491
+Study A,B cells,B Cells Plasma STAT5+,CD19,58.95206642
+Study A,Granulocytes,Basophils,CD19,1.794811726
+Study A,B cells,B Cells,CD19,141.5911598
+Study A,B cells,B Cells CSM,CD19,138.9702072
+Study A,B cells,B Cells NCSM,CD19,208.4698486
+Study A,B cells,B Cells Plasma,CD19,29.06646729
+Study A,Granulocytes,CD66+,CD19,1.210120291
+Study A,NK cells,NK CD56+CD16- Cells,CD19,1.962136805
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD19,2.80490768
+Study A,NK cells,NK CD56loCD16+ Cells,CD19,1.652749658
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD19,2.322066426
+Study A,NK cells,NKT Cells,CD19,4.934996486
+Study A,NK cells,NKT Cells CD38+,CD19,4.454195499
+Study A,CD4 T cells,CD3+,CD19,3.737327456
+Study A,CD4 T cells,CD4 T Cells,CD19,3.854830444
+Study A,CD4 T cells,CD4 T Cells CD38+,CD19,4.41785574
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,CD19,5.141842127
+Study A,CD4 T cells,CD4 T Cells Memory,CD19,3.841290712
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,CD19,4.357696891
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD19,4.934790254
+Study A,CD8 T cells,CD8 T Cells,CD19,3.513220549
+Study A,CD4 T cells,CD4 T Cells CD161+,CD19,3.637678921
+Study A,CD8 T cells,CD8 T Cells CD161+,CD19,4.64259696
+Study A,CD8 T cells,CD8 T Cells CD38+,CD19,6.16002059
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,CD19,3.270570099
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD19,3.7299788
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD19,4.348420382
+Study A,CD8 T cells,CD8 T Cells Memory,CD19,3.754556835
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,CD19,5.093475103
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD19,6.25619173
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD19,3.370562673
+Study A,Monocytes,cMCs,CD19,4.719162822
+Study A,Monocytes,intMCs,CD19,8.21131897
+Study A,Dendritic cells,mDCs,CD19,10.65343213
+Study A,Monocytes,ncMCs,CD19,4.530588031
+Study A,Dendritic cells,pDCs,CD19,7.743400574
+Study A,Dendritic cells,pDC CD38+,CD19,7.715664268
+Study A,B cells,B Cells Plasma STAT5+,IgM,52.80168343
+Study A,Granulocytes,Basophils,IgM,14.17410398
+Study A,B cells,B Cells,IgM,309.1016235
+Study A,B cells,B Cells CSM,IgM,89.58799744
+Study A,B cells,B Cells NCSM,IgM,1490.270294
+Study A,B cells,B Cells Plasma,IgM,74.56781006
+Study A,Granulocytes,CD66+,IgM,9.992296219
+Study A,NK cells,NK CD56+CD16- Cells,IgM,11.38463354
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,IgM,15.4665339
+Study A,NK cells,NK CD56loCD16+ Cells,IgM,10.44299769
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,IgM,12.46425366
+Study A,NK cells,NKT Cells,IgM,16.22650814
+Study A,NK cells,NKT Cells CD38+,IgM,16.06591797
+Study A,CD4 T cells,CD3+,IgM,9.526132345
+Study A,CD4 T cells,CD4 T Cells,IgM,9.657274723
+Study A,CD4 T cells,CD4 T Cells CD38+,IgM,12.44204855
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,IgM,16.99977016
+Study A,CD4 T cells,CD4 T Cells Memory,IgM,9.934132576
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,IgM,13.10173273
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,IgM,16.76863337
+Study A,CD8 T cells,CD8 T Cells,IgM,9.309445381
+Study A,CD4 T cells,CD4 T Cells CD161+,IgM,9.452688217
+Study A,CD8 T cells,CD8 T Cells CD161+,IgM,14.72503376
+Study A,CD8 T cells,CD8 T Cells CD38+,IgM,23.05590582
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,IgM,8.395764589
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,IgM,11.00223064
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,IgM,13.50068188
+Study A,CD8 T cells,CD8 T Cells Memory,IgM,10.17397857
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,IgM,16.98533964
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,IgM,24.80692482
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,IgM,8.626503944
+Study A,Monocytes,cMCs,IgM,26.95942163
+Study A,Monocytes,intMCs,IgM,58.97577572
+Study A,Dendritic cells,mDCs,IgM,76.25041771
+Study A,Monocytes,ncMCs,IgM,28.78982592
+Study A,Dendritic cells,pDCs,IgM,55.36737633
+Study A,Dendritic cells,pDC CD38+,IgM,55.05059528
+Study A,B cells,B Cells Plasma STAT5+,HLA-DR,1178.454956
+Study A,Granulocytes,Basophils,HLA-DR,4.646581173
+Study A,B cells,B Cells,HLA-DR,2658.245972
+Study A,B cells,B Cells CSM,HLA-DR,2319.581299
+Study A,B cells,B Cells NCSM,HLA-DR,2306.520996
+Study A,B cells,B Cells Plasma,HLA-DR,2819.512451
+Study A,Granulocytes,CD66+,HLA-DR,1.153884709
+Study A,NK cells,NK CD56+CD16- Cells,HLA-DR,34.5043335
+Study A,NK cells,NK CD56+CD16- Cells CD38+Ki67+,HLA-DR,123.8143692
+Study A,NK cells,NK CD56loCD16+ Cells,HLA-DR,11.29411221
+Study A,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,HLA-DR,21.93871117
+Study A,NK cells,NKT Cells,HLA-DR,28.11210346
+Study A,NK cells,NKT Cells CD38+,HLA-DR,22.05790901
+Study A,CD4 T cells,CD3+,HLA-DR,6.624950647
+Study A,CD4 T cells,CD4 T Cells,HLA-DR,4.717284918
+Study A,CD4 T cells,CD4 T Cells CD38+,HLA-DR,4.573592782
+Study A,CD4 T cells,CD4 T Cells CD38+Ki67+,HLA-DR,10.96157455
+Study A,CD4 T cells,CD4 T Cells Memory,HLA-DR,5.403732777
+Study A,CD4 T cells,CD4 T Cells Memory CD38+,HLA-DR,4.93500042
+Study A,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,HLA-DR,12.12102211
+Study A,CD8 T cells,CD8 T Cells,HLA-DR,13.10903072
+Study A,CD4 T cells,CD4 T Cells CD161+,HLA-DR,5.665544748
+Study A,CD8 T cells,CD8 T Cells CD161+,HLA-DR,112.9770794
+Study A,CD8 T cells,CD8 T Cells CD38+,HLA-DR,665.7767181
+Study A,CD8 T cells,CD8 T Cells CD38+Ki67+,HLA-DR,37.96324825
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,HLA-DR,81.99464417
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,HLA-DR,165.7740555
+Study A,CD8 T cells,CD8 T Cells Memory,HLA-DR,31.06074572
+Study A,CD8 T cells,CD8 T Cells Memory CD38+,HLA-DR,370.118721
+Study A,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,HLA-DR,879.7554321
+Study A,CD8 T cells,CD8 T Cells CD45RA+CD27-,HLA-DR,37.77856445
+Study A,Monocytes,cMCs,HLA-DR,1037.18631
+Study A,Monocytes,intMCs,HLA-DR,2712.445862
+Study A,Dendritic cells,mDCs,HLA-DR,3962.847351
+Study A,Monocytes,ncMCs,HLA-DR,1113.846649
+Study A,Dendritic cells,pDCs,HLA-DR,2531.303833
+Study A,Dendritic cells,pDC CD38+,HLA-DR,2601.067993
+Study B,B cells,B Cells,CD66,0.867278516
+Study B,B cells,B Cells CSM,CD66,1.057381749
+Study B,B cells,B Cells NCSM,CD66,1.321033597
+Study B,B cells,B Cells Plasma,CD66,1.744297624
+Study B,B cells,B Cells Plasma STAT5+,CD66,1.98179394
+Study B,Granulocytes,Basophils,CD66,0.983296573
+Study B,CD4 T cells,CD3+,CD66,0.632148802
+Study B,CD4 T cells,CD4 T Cells Memory,CD66,0.631143123
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD66,1.003664732
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD66,1.143019855
+Study B,CD4 T cells,CD4 T Cells,CD66,0.601844102
+Study B,CD4 T cells,CD4 T Cells CD38+,CD66,0.832039177
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD66,1.081424713
+Study B,CD8 T cells,CD8 T Cells Memory,CD66,0.645565569
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD66,0.832562596
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD66,1.247549951
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD66,0.601380676
+Study B,CD8 T cells,CD8 T Cells,CD66,0.650558919
+Study B,CD8 T cells,CD8 T Cells CD38+,CD66,0.752757609
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD66,1.004149675
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD66,0.634394288
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD66,0.773265302
+Study B,NK cells,NK CD56+CD16- Cells,CD66,0.688832998
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD66,0.921701998
+Study B,NK cells,NK CD56loCD16+ Cells,CD66,0.711314201
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD66,0.826358616
+Study B,NK cells,NKT Cells,CD66,0.616196275
+Study B,NK cells,NKT Cells CD38+,CD66,2.012827516
+Study B,CD8 T cells,CD8 T Cells CD161+,CD66,0.573909402
+Study B,CD4 T cells,CD4 T Cells CD161+,CD66,1.122221723
+Study B,Monocytes,cMCs,CD66,1.210858226
+Study B,Monocytes,intMCs,CD66,1.428871632
+Study B,Dendritic cells,mDCs,CD66,1.35413909
+Study B,Monocytes,ncMCs,CD66,1.357648492
+Study B,Granulocytes,CD66+,CD66,18.22877693
+Study B,Dendritic cells,pDC CD38+,CD66,1.183061242
+Study B,Dendritic cells,pDCs,CD66,1.124311864
+Study B,B cells,B Cells,CD123,3.641500473
+Study B,B cells,B Cells CSM,CD123,2.571067333
+Study B,B cells,B Cells NCSM,CD123,3.264362097
+Study B,B cells,B Cells Plasma,CD123,9.366682053
+Study B,B cells,B Cells Plasma STAT5+,CD123,11.09662151
+Study B,Granulocytes,Basophils,CD123,250.789772
+Study B,CD4 T cells,CD3+,CD123,1.962422967
+Study B,CD4 T cells,CD4 T Cells Memory,CD123,3.077583313
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD123,4.358462572
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD123,3.895484209
+Study B,CD4 T cells,CD4 T Cells,CD123,2.412033081
+Study B,CD4 T cells,CD4 T Cells CD38+,CD123,3.783423662
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD123,3.729286551
+Study B,CD8 T cells,CD8 T Cells Memory,CD123,2.234428406
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD123,3.162845135
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD123,3.089039087
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD123,2.4583354
+Study B,CD8 T cells,CD8 T Cells,CD123,1.519052505
+Study B,CD8 T cells,CD8 T Cells CD38+,CD123,2.371279597
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD123,2.625397563
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD123,1.094968557
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD123,1.339539051
+Study B,NK cells,NK CD56+CD16- Cells,CD123,1.546944141
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD123,1.970180273
+Study B,NK cells,NK CD56loCD16+ Cells,CD123,1.741842031
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD123,2.091091156
+Study B,NK cells,NKT Cells,CD123,2.404096127
+Study B,NK cells,NKT Cells CD38+,CD123,5.264249384
+Study B,CD8 T cells,CD8 T Cells CD161+,CD123,2.152583599
+Study B,CD4 T cells,CD4 T Cells CD161+,CD123,4.027244925
+Study B,Monocytes,cMCs,CD123,9.448702335
+Study B,Monocytes,intMCs,CD123,18.49702835
+Study B,Dendritic cells,mDCs,CD123,17.19196129
+Study B,Monocytes,ncMCs,CD123,38.59794617
+Study B,Granulocytes,CD66+,CD123,4.21697998
+Study B,Dendritic cells,pDC CD38+,CD123,559.3858337
+Study B,Dendritic cells,pDCs,CD123,482.6702118
+Study B,B cells,B Cells,CD16,5.092862844
+Study B,B cells,B Cells CSM,CD16,4.879336834
+Study B,B cells,B Cells NCSM,CD16,6.100663662
+Study B,B cells,B Cells Plasma,CD16,9.033793926
+Study B,B cells,B Cells Plasma STAT5+,CD16,11.28438187
+Study B,Granulocytes,Basophils,CD16,8.832885742
+Study B,CD4 T cells,CD3+,CD16,4.215085983
+Study B,CD4 T cells,CD4 T Cells Memory,CD16,6.282464027
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD16,8.189188004
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD16,7.783910275
+Study B,CD4 T cells,CD4 T Cells,CD16,4.594110489
+Study B,CD4 T cells,CD4 T Cells CD38+,CD16,7.267296314
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD16,7.326747417
+Study B,CD8 T cells,CD8 T Cells Memory,CD16,4.656004429
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD16,7.203556061
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD16,6.850619316
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD16,5.426608801
+Study B,CD8 T cells,CD8 T Cells,CD16,3.62331295
+Study B,CD8 T cells,CD8 T Cells CD38+,CD16,6.541374207
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD16,6.973674536
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD16,3.928624868
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD16,6.745033264
+Study B,NK cells,NK CD56+CD16- Cells,CD16,20.4524374
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD16,21.96710396
+Study B,NK cells,NK CD56loCD16+ Cells,CD16,250.0642624
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD16,240.157814
+Study B,NK cells,NKT Cells,CD16,7.69077158
+Study B,NK cells,NKT Cells CD38+,CD16,64.09916306
+Study B,CD8 T cells,CD8 T Cells CD161+,CD16,4.103785515
+Study B,CD4 T cells,CD4 T Cells CD161+,CD16,8.384573221
+Study B,Monocytes,cMCs,CD16,9.225055695
+Study B,Monocytes,intMCs,CD16,50.61964989
+Study B,Dendritic cells,mDCs,CD16,7.613067627
+Study B,Monocytes,ncMCs,CD16,278.5132446
+Study B,Granulocytes,CD66+,CD16,188.6782227
+Study B,Dendritic cells,pDC CD38+,CD16,11.09083319
+Study B,Dendritic cells,pDCs,CD16,10.36713266
+Study B,B cells,B Cells,CD45RA,274.2725525
+Study B,B cells,B Cells CSM,CD45RA,398.3772278
+Study B,B cells,B Cells NCSM,CD45RA,523.7644653
+Study B,B cells,B Cells Plasma,CD45RA,359.4470673
+Study B,B cells,B Cells Plasma STAT5+,CD45RA,373.5241547
+Study B,Granulocytes,Basophils,CD45RA,1.195027471
+Study B,CD4 T cells,CD3+,CD45RA,16.6369915
+Study B,CD4 T cells,CD4 T Cells Memory,CD45RA,1.931546092
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD45RA,1.909849107
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD45RA,1.90509522
+Study B,CD4 T cells,CD4 T Cells,CD45RA,6.025090218
+Study B,CD4 T cells,CD4 T Cells CD38+,CD45RA,3.778535366
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD45RA,2.539349318
+Study B,CD8 T cells,CD8 T Cells Memory,CD45RA,4.313887596
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD45RA,3.016384363
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD45RA,3.679593563
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD45RA,3.547531486
+Study B,CD8 T cells,CD8 T Cells,CD45RA,74.95298767
+Study B,CD8 T cells,CD8 T Cells CD38+,CD45RA,11.61114883
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD45RA,4.7499156
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD45RA,175.1980743
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD45RA,280.579834
+Study B,NK cells,NK CD56+CD16- Cells,CD45RA,271.1655273
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD45RA,254.0713577
+Study B,NK cells,NK CD56loCD16+ Cells,CD45RA,402.6860962
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD45RA,367.0261993
+Study B,NK cells,NKT Cells,CD45RA,8.669389725
+Study B,NK cells,NKT Cells CD38+,CD45RA,216.6264229
+Study B,CD8 T cells,CD8 T Cells CD161+,CD45RA,5.559050798
+Study B,CD4 T cells,CD4 T Cells CD161+,CD45RA,1.345121801
+Study B,Monocytes,cMCs,CD45RA,8.150397778
+Study B,Monocytes,intMCs,CD45RA,12.43694448
+Study B,Dendritic cells,mDCs,CD45RA,23.19683838
+Study B,Monocytes,ncMCs,CD45RA,148.4881744
+Study B,Granulocytes,CD66+,CD45RA,2.748477936
+Study B,Dendritic cells,pDC CD38+,CD45RA,253.3851624
+Study B,Dendritic cells,pDCs,CD45RA,230.6303558
+Study B,B cells,B Cells,CD14,0.338171303
+Study B,B cells,B Cells CSM,CD14,0.58650285
+Study B,B cells,B Cells NCSM,CD14,0.585994661
+Study B,B cells,B Cells Plasma,CD14,1.15096426
+Study B,B cells,B Cells Plasma STAT5+,CD14,1.209838033
+Study B,Granulocytes,Basophils,CD14,0.313035637
+Study B,CD4 T cells,CD3+,CD14,0.262980759
+Study B,CD4 T cells,CD4 T Cells Memory,CD14,0.294573665
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD14,0.542992532
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD14,0.586895347
+Study B,CD4 T cells,CD4 T Cells,CD14,0.24769181
+Study B,CD4 T cells,CD4 T Cells CD38+,CD14,0.507164061
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD14,0.606002212
+Study B,CD8 T cells,CD8 T Cells Memory,CD14,0.350844324
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD14,0.594480962
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD14,0.795743704
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD14,0.326714516
+Study B,CD8 T cells,CD8 T Cells,CD14,0.281888425
+Study B,CD8 T cells,CD8 T Cells CD38+,CD14,0.466139972
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD14,0.621878892
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD14,0.271332726
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD14,0.397057563
+Study B,NK cells,NK CD56+CD16- Cells,CD14,0.305328354
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD14,0.348988861
+Study B,NK cells,NK CD56loCD16+ Cells,CD14,0.285702154
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD14,0.35244146
+Study B,NK cells,NKT Cells,CD14,0.343650505
+Study B,NK cells,NKT Cells CD38+,CD14,1.459023625
+Study B,CD8 T cells,CD8 T Cells CD161+,CD14,0.271575347
+Study B,CD4 T cells,CD4 T Cells CD161+,CD14,0.723468989
+Study B,Monocytes,cMCs,CD14,77.51973724
+Study B,Monocytes,intMCs,CD14,41.66275406
+Study B,Dendritic cells,mDCs,CD14,1.84070003
+Study B,Monocytes,ncMCs,CD14,1.647895455
+Study B,Granulocytes,CD66+,CD14,0.859114707
+Study B,Dendritic cells,pDC CD38+,CD14,0.913915336
+Study B,Dendritic cells,pDCs,CD14,0.887114108
+Study B,B cells,B Cells,CD8,0.088831291
+Study B,B cells,B Cells CSM,CD8,0.305485815
+Study B,B cells,B Cells NCSM,CD8,0.270622164
+Study B,B cells,B Cells Plasma,CD8,0.644021451
+Study B,B cells,B Cells Plasma STAT5+,CD8,0.621502399
+Study B,Granulocytes,Basophils,CD8,0.072309591
+Study B,CD4 T cells,CD3+,CD8,2.581109285
+Study B,CD4 T cells,CD4 T Cells Memory,CD8,1.217992187
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD8,1.557450652
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD8,1.699182153
+Study B,CD4 T cells,CD4 T Cells,CD8,1.16940093
+Study B,CD4 T cells,CD4 T Cells CD38+,CD8,1.550986409
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD8,1.634187639
+Study B,CD8 T cells,CD8 T Cells Memory,CD8,233.9858932
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD8,237.3034668
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD8,235.662735
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD8,201.2930145
+Study B,CD8 T cells,CD8 T Cells,CD8,260.5136414
+Study B,CD8 T cells,CD8 T Cells CD38+,CD8,269.3152466
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD8,235.2622604
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD8,243.0406952
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD8,253.9882202
+Study B,NK cells,NK CD56+CD16- Cells,CD8,0.714547455
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD8,0.732279837
+Study B,NK cells,NK CD56loCD16+ Cells,CD8,0.981221735
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD8,1.124319613
+Study B,NK cells,NKT Cells,CD8,20.85095882
+Study B,NK cells,NKT Cells CD38+,CD8,6.730638504
+Study B,CD8 T cells,CD8 T Cells CD161+,CD8,114.3093529
+Study B,CD4 T cells,CD4 T Cells CD161+,CD8,1.766320288
+Study B,Monocytes,cMCs,CD8,0.328779101
+Study B,Monocytes,intMCs,CD8,0.53751111
+Study B,Dendritic cells,mDCs,CD8,0.394968748
+Study B,Monocytes,ncMCs,CD8,0.351287812
+Study B,Granulocytes,CD66+,CD8,0.371523887
+Study B,Dendritic cells,pDC CD38+,CD8,0.921000749
+Study B,Dendritic cells,pDCs,CD8,0.84968859
+Study B,B cells,B Cells,CD4,4.219546318
+Study B,B cells,B Cells CSM,CD4,4.751789093
+Study B,B cells,B Cells NCSM,CD4,4.851797104
+Study B,B cells,B Cells Plasma,CD4,7.378238201
+Study B,B cells,B Cells Plasma STAT5+,CD4,7.414597511
+Study B,Granulocytes,Basophils,CD4,4.265270233
+Study B,CD4 T cells,CD3+,CD4,89.72331238
+Study B,CD4 T cells,CD4 T Cells Memory,CD4,159.6982422
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD4,167.6343155
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD4,180.0550613
+Study B,CD4 T cells,CD4 T Cells,CD4,156.1087189
+Study B,CD4 T cells,CD4 T Cells CD38+,CD4,164.4769135
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD4,178.1367493
+Study B,CD8 T cells,CD8 T Cells Memory,CD4,9.147958279
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD4,10.31029081
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD4,10.78497505
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD4,8.93196106
+Study B,CD8 T cells,CD8 T Cells,CD4,8.741995811
+Study B,CD8 T cells,CD8 T Cells CD38+,CD4,9.23566246
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD4,10.05334187
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD4,7.704205751
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD4,8.628915787
+Study B,NK cells,NK CD56+CD16- Cells,CD4,3.931451678
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD4,4.739743948
+Study B,NK cells,NK CD56loCD16+ Cells,CD4,3.996567249
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD4,4.655943871
+Study B,NK cells,NKT Cells,CD4,8.685011864
+Study B,NK cells,NKT Cells CD38+,CD4,42.57555342
+Study B,CD8 T cells,CD8 T Cells CD161+,CD4,8.180092812
+Study B,CD4 T cells,CD4 T Cells CD161+,CD4,203.9981003
+Study B,Monocytes,cMCs,CD4,17.95321274
+Study B,Monocytes,intMCs,CD4,24.21356392
+Study B,Dendritic cells,mDCs,CD4,17.60655308
+Study B,Monocytes,ncMCs,CD4,18.47102165
+Study B,Granulocytes,CD66+,CD4,7.095579624
+Study B,Dendritic cells,pDC CD38+,CD4,82.77145004
+Study B,Dendritic cells,pDCs,CD4,80.77430725
+Study B,B cells,B Cells,CD3,0.970965683
+Study B,B cells,B Cells CSM,CD3,1.619735301
+Study B,B cells,B Cells NCSM,CD3,1.088541746
+Study B,B cells,B Cells Plasma,CD3,1.831555247
+Study B,B cells,B Cells Plasma STAT5+,CD3,1.602014363
+Study B,Granulocytes,Basophils,CD3,1.933429122
+Study B,CD4 T cells,CD3+,CD3,168.2745819
+Study B,CD4 T cells,CD4 T Cells Memory,CD3,169.1669235
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD3,183.3717651
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD3,184.6628418
+Study B,CD4 T cells,CD4 T Cells,CD3,177.330658
+Study B,CD4 T cells,CD4 T Cells CD38+,CD3,189.370491
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD3,185.5835114
+Study B,CD8 T cells,CD8 T Cells Memory,CD3,144.4291687
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD3,155.3460007
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD3,149.2297974
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD3,131.5150757
+Study B,CD8 T cells,CD8 T Cells,CD3,154.0894928
+Study B,CD8 T cells,CD8 T Cells CD38+,CD3,153.6961823
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD3,145.7807312
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD3,129.2869568
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD3,147.0375519
+Study B,NK cells,NK CD56+CD16- Cells,CD3,1.700295448
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD3,2.3217237
+Study B,NK cells,NK CD56loCD16+ Cells,CD3,1.027329624
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD3,1.444834828
+Study B,NK cells,NKT Cells,CD3,173.076004
+Study B,NK cells,NKT Cells CD38+,CD3,161.2354813
+Study B,CD8 T cells,CD8 T Cells CD161+,CD3,166.3988342
+Study B,CD4 T cells,CD4 T Cells CD161+,CD3,206.6715393
+Study B,Monocytes,cMCs,CD3,1.345064282
+Study B,Monocytes,intMCs,CD3,1.798590124
+Study B,Dendritic cells,mDCs,CD3,1.545357585
+Study B,Monocytes,ncMCs,CD3,1.380499482
+Study B,Granulocytes,CD66+,CD3,1.004573107
+Study B,Dendritic cells,pDC CD38+,CD3,3.093617201
+Study B,Dendritic cells,pDCs,CD3,2.979019165
+Study B,B cells,B Cells,CD45,159.4857635
+Study B,B cells,B Cells CSM,CD45,159.4937744
+Study B,B cells,B Cells NCSM,CD45,200.521637
+Study B,B cells,B Cells Plasma,CD45,120.6797791
+Study B,B cells,B Cells Plasma STAT5+,CD45,119.3026695
+Study B,Granulocytes,Basophils,CD45,64.81669617
+Study B,CD4 T cells,CD3+,CD45,217.3892059
+Study B,CD4 T cells,CD4 T Cells Memory,CD45,215.858078
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD45,213.6290131
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD45,209.1566849
+Study B,CD4 T cells,CD4 T Cells,CD45,208.5380783
+Study B,CD4 T cells,CD4 T Cells CD38+,CD45,217.7007751
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD45,212.0518646
+Study B,CD8 T cells,CD8 T Cells Memory,CD45,243.4317474
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD45,273.2625122
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD45,268.1078186
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD45,236.0375977
+Study B,CD8 T cells,CD8 T Cells,CD45,229.6123199
+Study B,CD8 T cells,CD8 T Cells CD38+,CD45,266.8260651
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD45,260.6611328
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD45,252.5941086
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD45,273.8578796
+Study B,NK cells,NK CD56+CD16- Cells,CD45,162.6959839
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD45,141.6458588
+Study B,NK cells,NK CD56loCD16+ Cells,CD45,204.3925858
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD45,182.6076813
+Study B,NK cells,NKT Cells,CD45,241.7605438
+Study B,NK cells,NKT Cells CD38+,CD45,276.660141
+Study B,CD8 T cells,CD8 T Cells CD161+,CD45,222.4754715
+Study B,CD4 T cells,CD4 T Cells CD161+,CD45,225.2453384
+Study B,Monocytes,cMCs,CD45,157.7797394
+Study B,Monocytes,intMCs,CD45,202.2791672
+Study B,Dendritic cells,mDCs,CD45,102.1590118
+Study B,Monocytes,ncMCs,CD45,237.5614243
+Study B,Granulocytes,CD66+,CD45,53.95729446
+Study B,Dendritic cells,pDC CD38+,CD45,81.75095367
+Study B,Dendritic cells,pDCs,CD45,81.72154236
+Study B,B cells,B Cells,CD56,2.438078642
+Study B,B cells,B Cells CSM,CD56,1.149668276
+Study B,B cells,B Cells NCSM,CD56,3.922473431
+Study B,B cells,B Cells Plasma,CD56,0.975177407
+Study B,B cells,B Cells Plasma STAT5+,CD56,0.885414898
+Study B,Granulocytes,Basophils,CD56,0.518012464
+Study B,CD4 T cells,CD3+,CD56,0.749784678
+Study B,CD4 T cells,CD4 T Cells Memory,CD56,0.605824709
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD56,0.773215115
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD56,0.758134305
+Study B,CD4 T cells,CD4 T Cells,CD56,0.619778216
+Study B,CD4 T cells,CD4 T Cells CD38+,CD56,0.794285476
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD56,0.760507941
+Study B,CD8 T cells,CD8 T Cells Memory,CD56,0.646798134
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD56,0.881174088
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD56,0.975896776
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD56,0.740959466
+Study B,CD8 T cells,CD8 T Cells,CD56,0.711441189
+Study B,CD8 T cells,CD8 T Cells CD38+,CD56,0.791382521
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD56,0.969102621
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD56,0.7662642
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD56,0.882888019
+Study B,NK cells,NK CD56+CD16- Cells,CD56,124.5948257
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD56,129.0674362
+Study B,NK cells,NK CD56loCD16+ Cells,CD56,27.53483772
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD56,32.76887131
+Study B,NK cells,NKT Cells,CD56,14.05463457
+Study B,NK cells,NKT Cells CD38+,CD56,15.16210556
+Study B,CD8 T cells,CD8 T Cells CD161+,CD56,1.291944265
+Study B,CD4 T cells,CD4 T Cells CD161+,CD56,0.663262308
+Study B,Monocytes,cMCs,CD56,1.172919631
+Study B,Monocytes,intMCs,CD56,1.610596299
+Study B,Dendritic cells,mDCs,CD56,2.830819368
+Study B,Monocytes,ncMCs,CD56,1.010729909
+Study B,Granulocytes,CD66+,CD56,0.328411624
+Study B,Dendritic cells,pDC CD38+,CD56,1.611955822
+Study B,Dendritic cells,pDCs,CD56,1.558861375
+Study B,B cells,B Cells,CD11c,0.250872776
+Study B,B cells,B Cells CSM,CD11c,0.906573594
+Study B,B cells,B Cells NCSM,CD11c,1.051710606
+Study B,B cells,B Cells Plasma,CD11c,1.034140348
+Study B,B cells,B Cells Plasma STAT5+,CD11c,0.923642218
+Study B,Granulocytes,Basophils,CD11c,3.560162067
+Study B,CD4 T cells,CD3+,CD11c,0.172211014
+Study B,CD4 T cells,CD4 T Cells Memory,CD11c,0.097718239
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD11c,0.311289161
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD11c,0.342598453
+Study B,CD4 T cells,CD4 T Cells,CD11c,0.058893336
+Study B,CD4 T cells,CD4 T Cells CD38+,CD11c,0.275331736
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD11c,0.359471634
+Study B,CD8 T cells,CD8 T Cells Memory,CD11c,0.151677132
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD11c,0.430158705
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD11c,0.57960546
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD11c,0.092098676
+Study B,CD8 T cells,CD8 T Cells,CD11c,0.22394257
+Study B,CD8 T cells,CD8 T Cells CD38+,CD11c,0.432772607
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD11c,0.546615839
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD11c,0.369850308
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD11c,0.636812866
+Study B,NK cells,NK CD56+CD16- Cells,CD11c,20.06057549
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD11c,25.26079178
+Study B,NK cells,NK CD56loCD16+ Cells,CD11c,7.42933321
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD11c,10.81682396
+Study B,NK cells,NKT Cells,CD11c,0.398170173
+Study B,NK cells,NKT Cells CD38+,CD11c,7.650322795
+Study B,CD8 T cells,CD8 T Cells CD161+,CD11c,0.112427227
+Study B,CD4 T cells,CD4 T Cells CD161+,CD11c,0.355983905
+Study B,Monocytes,cMCs,CD11c,60.48759651
+Study B,Monocytes,intMCs,CD11c,78.80968094
+Study B,Dendritic cells,mDCs,CD11c,48.59641266
+Study B,Monocytes,ncMCs,CD11c,78.05874634
+Study B,Granulocytes,CD66+,CD11c,8.665253162
+Study B,Dendritic cells,pDC CD38+,CD11c,0.514760226
+Study B,Dendritic cells,pDCs,CD11c,0.42900762
+Study B,B cells,B Cells,CD27,1.280326247
+Study B,B cells,B Cells CSM,CD27,14.46916199
+Study B,B cells,B Cells NCSM,CD27,15.31075335
+Study B,B cells,B Cells Plasma,CD27,46.75264359
+Study B,B cells,B Cells Plasma STAT5+,CD27,63.03149033
+Study B,Granulocytes,Basophils,CD27,1.206521451
+Study B,CD4 T cells,CD3+,CD27,20.7381916
+Study B,CD4 T cells,CD4 T Cells Memory,CD27,24.45166779
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD27,27.46266556
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD27,26.84582138
+Study B,CD4 T cells,CD4 T Cells,CD27,23.27913094
+Study B,CD4 T cells,CD4 T Cells CD38+,CD27,26.46193695
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD27,27.54432774
+Study B,CD8 T cells,CD8 T Cells Memory,CD27,23.73073387
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD27,32.04575157
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD27,38.77902985
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD27,2.713723063
+Study B,CD8 T cells,CD8 T Cells,CD27,19.84179974
+Study B,CD8 T cells,CD8 T Cells CD38+,CD27,20.65579987
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD27,29.23846626
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD27,2.833646536
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD27,1.529093802
+Study B,NK cells,NK CD56+CD16- Cells,CD27,2.812814713
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD27,2.032731771
+Study B,NK cells,NK CD56loCD16+ Cells,CD27,1.201988697
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD27,1.217663169
+Study B,NK cells,NKT Cells,CD27,4.099589348
+Study B,NK cells,NKT Cells CD38+,CD27,9.76727438
+Study B,CD8 T cells,CD8 T Cells CD161+,CD27,4.941512585
+Study B,CD4 T cells,CD4 T Cells CD161+,CD27,17.92271519
+Study B,Monocytes,cMCs,CD27,2.588819504
+Study B,Monocytes,intMCs,CD27,3.19404912
+Study B,Dendritic cells,mDCs,CD27,2.65254724
+Study B,Monocytes,ncMCs,CD27,3.150296092
+Study B,Granulocytes,CD66+,CD27,1.399257421
+Study B,Dendritic cells,pDC CD38+,CD27,1.089066267
+Study B,Dendritic cells,pDCs,CD27,1.05511713
+Study B,B cells,B Cells,CD7,0
+Study B,B cells,B Cells CSM,CD7,0.527749181
+Study B,B cells,B Cells NCSM,CD7,0.272217125
+Study B,B cells,B Cells Plasma,CD7,1.062448949
+Study B,B cells,B Cells Plasma STAT5+,CD7,1.222482324
+Study B,Granulocytes,Basophils,CD7,0
+Study B,CD4 T cells,CD3+,CD7,47.13469696
+Study B,CD4 T cells,CD4 T Cells Memory,CD7,32.62817764
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD7,19.06356525
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD7,16.73319054
+Study B,CD4 T cells,CD4 T Cells,CD7,43.89265442
+Study B,CD4 T cells,CD4 T Cells CD38+,CD7,25.79958725
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD7,18.41974163
+Study B,CD8 T cells,CD8 T Cells Memory,CD7,44.91288757
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD7,42.48472214
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD7,45.05159378
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD7,38.47364807
+Study B,CD8 T cells,CD8 T Cells,CD7,51.8243103
+Study B,CD8 T cells,CD8 T Cells CD38+,CD7,37.92712784
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD7,28.8235302
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD7,36.37614059
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD7,36.27801132
+Study B,NK cells,NK CD56+CD16- Cells,CD7,518.8574829
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD7,498.4924469
+Study B,NK cells,NK CD56loCD16+ Cells,CD7,269.0454254
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD7,264.7863464
+Study B,NK cells,NKT Cells,CD7,105.0293427
+Study B,NK cells,NKT Cells CD38+,CD7,118.1098218
+Study B,CD8 T cells,CD8 T Cells CD161+,CD7,86.48212433
+Study B,CD4 T cells,CD4 T Cells CD161+,CD7,25.68343735
+Study B,Monocytes,cMCs,CD7,0
+Study B,Monocytes,intMCs,CD7,0.152043059
+Study B,Dendritic cells,mDCs,CD7,0.009994505
+Study B,Monocytes,ncMCs,CD7,0.007525849
+Study B,Granulocytes,CD66+,CD7,0
+Study B,Dendritic cells,pDC CD38+,CD7,0.109316848
+Study B,Dendritic cells,pDCs,CD7,0.045140037
+Study B,B cells,B Cells,Ki67,2.856375217
+Study B,B cells,B Cells CSM,Ki67,3.100805283
+Study B,B cells,B Cells NCSM,Ki67,3.046754241
+Study B,B cells,B Cells Plasma,Ki67,42.55467987
+Study B,B cells,B Cells Plasma STAT5+,Ki67,56.35588837
+Study B,Granulocytes,Basophils,Ki67,2.844980359
+Study B,CD4 T cells,CD3+,Ki67,2.583656073
+Study B,CD4 T cells,CD4 T Cells Memory,Ki67,3.122722626
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,Ki67,8.478782654
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,Ki67,51.16802979
+Study B,CD4 T cells,CD4 T Cells,Ki67,2.756151676
+Study B,CD4 T cells,CD4 T Cells CD38+,Ki67,4.775572538
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,Ki67,42.92745209
+Study B,CD8 T cells,CD8 T Cells Memory,Ki67,2.758286357
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,Ki67,8.323721886
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,Ki67,71.06674194
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,Ki67,2.966010451
+Study B,CD8 T cells,CD8 T Cells,Ki67,2.332810402
+Study B,CD8 T cells,CD8 T Cells CD38+,Ki67,4.05050087
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,Ki67,51.40395737
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,Ki67,2.261493444
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,Ki67,2.953703642
+Study B,NK cells,NK CD56+CD16- Cells,Ki67,2.646617889
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,Ki67,45.03448105
+Study B,NK cells,NK CD56loCD16+ Cells,Ki67,2.072520614
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,Ki67,47.78737068
+Study B,NK cells,NKT Cells,Ki67,2.705862045
+Study B,NK cells,NKT Cells CD38+,Ki67,43.4916687
+Study B,CD8 T cells,CD8 T Cells CD161+,Ki67,2.442338347
+Study B,CD4 T cells,CD4 T Cells CD161+,Ki67,5.402994454
+Study B,Monocytes,cMCs,Ki67,7.261190414
+Study B,Monocytes,intMCs,Ki67,6.530604362
+Study B,Dendritic cells,mDCs,Ki67,12.26079655
+Study B,Monocytes,ncMCs,Ki67,2.947907329
+Study B,Granulocytes,CD66+,Ki67,2.864082456
+Study B,Dendritic cells,pDC CD38+,Ki67,5.177564144
+Study B,Dendritic cells,pDCs,Ki67,4.18253994
+Study B,B cells,B Cells,CD38,1.290985584
+Study B,B cells,B Cells CSM,CD38,0.73254776
+Study B,B cells,B Cells NCSM,CD38,0.420717686
+Study B,B cells,B Cells Plasma,CD38,48.73267174
+Study B,B cells,B Cells Plasma STAT5+,CD38,80.95083237
+Study B,Granulocytes,Basophils,CD38,14.92261839
+Study B,CD4 T cells,CD3+,CD38,0.532370031
+Study B,CD4 T cells,CD4 T Cells Memory,CD38,0.336776167
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD38,10.05937195
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD38,20.03353024
+Study B,CD4 T cells,CD4 T Cells,CD38,0.741388083
+Study B,CD4 T cells,CD4 T Cells CD38+,CD38,8.896043777
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD38,19.51642799
+Study B,CD8 T cells,CD8 T Cells Memory,CD38,0.082315542
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD38,10.0919466
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD38,17.61357117
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD38,0
+Study B,CD8 T cells,CD8 T Cells,CD38,0.384027153
+Study B,CD8 T cells,CD8 T Cells CD38+,CD38,7.496906281
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD38,14.85765934
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD38,0.180134892
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD38,6.562600136
+Study B,NK cells,NK CD56+CD16- Cells,CD38,9.250668526
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD38,21.68959045
+Study B,NK cells,NK CD56loCD16+ Cells,CD38,13.11160755
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD38,26.67869759
+Study B,NK cells,NKT Cells,CD38,0.09457019
+Study B,NK cells,NKT Cells CD38+,CD38,18.60127401
+Study B,CD8 T cells,CD8 T Cells CD161+,CD38,0
+Study B,CD4 T cells,CD4 T Cells CD161+,CD38,22.291399
+Study B,Monocytes,cMCs,CD38,7.924987316
+Study B,Monocytes,intMCs,CD38,5.385416508
+Study B,Dendritic cells,mDCs,CD38,6.798723221
+Study B,Monocytes,ncMCs,CD38,0.51080209
+Study B,Granulocytes,CD66+,CD38,0.823128045
+Study B,Dendritic cells,pDC CD38+,CD38,12.4380455
+Study B,Dendritic cells,pDCs,CD38,5.502515554
+Study B,B cells,B Cells,CD19,72.58320236
+Study B,B cells,B Cells CSM,CD19,67.39083481
+Study B,B cells,B Cells NCSM,CD19,93.10900497
+Study B,B cells,B Cells Plasma,CD19,11.93917608
+Study B,B cells,B Cells Plasma STAT5+,CD19,11.56691742
+Study B,Granulocytes,Basophils,CD19,4.627650976
+Study B,CD4 T cells,CD3+,CD19,1.184075594
+Study B,CD4 T cells,CD4 T Cells Memory,CD19,1.44470489
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,CD19,1.858678818
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,CD19,2.099187136
+Study B,CD4 T cells,CD4 T Cells,CD19,1.269038022
+Study B,CD4 T cells,CD4 T Cells CD38+,CD19,1.700675249
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,CD19,1.971414447
+Study B,CD8 T cells,CD8 T Cells Memory,CD19,1.391382813
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,CD19,1.543502748
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,CD19,1.773346186
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,CD19,1.425714254
+Study B,CD8 T cells,CD8 T Cells,CD19,1.049906373
+Study B,CD8 T cells,CD8 T Cells CD38+,CD19,1.174846888
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,CD19,1.460026026
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,CD19,0.809504539
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,CD19,0.891109765
+Study B,NK cells,NK CD56+CD16- Cells,CD19,1.08845973
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,CD19,1.234539986
+Study B,NK cells,NK CD56loCD16+ Cells,CD19,0.517210782
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,CD19,0.679931849
+Study B,NK cells,NKT Cells,CD19,1.060712814
+Study B,NK cells,NKT Cells CD38+,CD19,2.479278117
+Study B,CD8 T cells,CD8 T Cells CD161+,CD19,0.929526687
+Study B,CD4 T cells,CD4 T Cells CD161+,CD19,1.397360831
+Study B,Monocytes,cMCs,CD19,1.874762177
+Study B,Monocytes,intMCs,CD19,1.613675833
+Study B,Dendritic cells,mDCs,CD19,3.604355812
+Study B,Monocytes,ncMCs,CD19,0.864672244
+Study B,Granulocytes,CD66+,CD19,1.202782035
+Study B,Dendritic cells,pDC CD38+,CD19,2.858648777
+Study B,Dendritic cells,pDCs,CD19,2.590933323
+Study B,B cells,B Cells,IgM,199.173378
+Study B,B cells,B Cells CSM,IgM,22.98898029
+Study B,B cells,B Cells NCSM,IgM,722.7297668
+Study B,B cells,B Cells Plasma,IgM,6.91479373
+Study B,B cells,B Cells Plasma STAT5+,IgM,5.063487053
+Study B,Granulocytes,Basophils,IgM,4.369572163
+Study B,CD4 T cells,CD3+,IgM,3.459903479
+Study B,CD4 T cells,CD4 T Cells Memory,IgM,3.638267994
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,IgM,3.962038159
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,IgM,3.594745517
+Study B,CD4 T cells,CD4 T Cells,IgM,3.495229125
+Study B,CD4 T cells,CD4 T Cells CD38+,IgM,4.109503269
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,IgM,3.724294543
+Study B,CD8 T cells,CD8 T Cells Memory,IgM,3.859334469
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,IgM,4.531019211
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,IgM,4.586607933
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,IgM,3.814905405
+Study B,CD8 T cells,CD8 T Cells,IgM,3.339557409
+Study B,CD8 T cells,CD8 T Cells CD38+,IgM,3.657454729
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,IgM,4.576529026
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,IgM,2.877142429
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,IgM,3.064840078
+Study B,NK cells,NK CD56+CD16- Cells,IgM,3.214682221
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,IgM,3.627038479
+Study B,NK cells,NK CD56loCD16+ Cells,IgM,2.407510042
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,IgM,2.818837166
+Study B,NK cells,NKT Cells,IgM,4.393275023
+Study B,NK cells,NKT Cells CD38+,IgM,14.80104613
+Study B,CD8 T cells,CD8 T Cells CD161+,IgM,4.05413866
+Study B,CD4 T cells,CD4 T Cells CD161+,IgM,3.299364746
+Study B,Monocytes,cMCs,IgM,9.38435936
+Study B,Monocytes,intMCs,IgM,15.84988308
+Study B,Dendritic cells,mDCs,IgM,20.00144577
+Study B,Monocytes,ncMCs,IgM,8.900669098
+Study B,Granulocytes,CD66+,IgM,2.318608761
+Study B,Dendritic cells,pDC CD38+,IgM,7.637669563
+Study B,Dendritic cells,pDCs,IgM,6.882691383
+Study B,B cells,B Cells,HLA-DR,1817.646851
+Study B,B cells,B Cells CSM,HLA-DR,1742.496094
+Study B,B cells,B Cells NCSM,HLA-DR,1996.586914
+Study B,B cells,B Cells Plasma,HLA-DR,812.2883301
+Study B,B cells,B Cells Plasma STAT5+,HLA-DR,739.3511047
+Study B,Granulocytes,Basophils,HLA-DR,1.310373664
+Study B,CD4 T cells,CD3+,HLA-DR,3.296863079
+Study B,CD4 T cells,CD4 T Cells Memory,HLA-DR,2.273291111
+Study B,CD4 T cells,CD4 T Cells Memory CD38+,HLA-DR,128.2859268
+Study B,CD4 T cells,CD4 T Cells Memory CD38+Ki67+,HLA-DR,5.606098413
+Study B,CD4 T cells,CD4 T Cells,HLA-DR,2.070248842
+Study B,CD4 T cells,CD4 T Cells CD38+,HLA-DR,76.79492188
+Study B,CD4 T cells,CD4 T Cells CD38+Ki67+,HLA-DR,5.251411915
+Study B,CD8 T cells,CD8 T Cells Memory,HLA-DR,30.26327133
+Study B,CD8 T cells,CD8 T Cells Memory CD38+,HLA-DR,318.1830292
+Study B,CD8 T cells,CD8 T Cells Memory CD38+Ki67+,HLA-DR,687.5038452
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27-,HLA-DR,34.83463097
+Study B,CD8 T cells,CD8 T Cells,HLA-DR,11.96348572
+Study B,CD8 T cells,CD8 T Cells CD38+,HLA-DR,205.9524841
+Study B,CD8 T cells,CD8 T Cells CD38+Ki67+,HLA-DR,671.8587036
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+,HLA-DR,48.42977142
+Study B,CD8 T cells,CD8 T Cells CD45RA+CD27- CD38+Ki67+,HLA-DR,97.34326172
+Study B,NK cells,NK CD56+CD16- Cells,HLA-DR,44.63814163
+Study B,NK cells,NK CD56+CD16- Cells CD38+Ki67+,HLA-DR,108.8633804
+Study B,NK cells,NK CD56loCD16+ Cells,HLA-DR,6.214408398
+Study B,NK cells,NK CD56loCD16+ Cells CD38+Ki67+,HLA-DR,11.00376654
+Study B,NK cells,NKT Cells,HLA-DR,6.015637875
+Study B,NK cells,NKT Cells CD38+,HLA-DR,62.97940707
+Study B,CD8 T cells,CD8 T Cells CD161+,HLA-DR,2.731113434
+Study B,CD4 T cells,CD4 T Cells CD161+,HLA-DR,1.98475346
+Study B,Monocytes,cMCs,HLA-DR,883.4151611
+Study B,Monocytes,intMCs,HLA-DR,1620.477051
+Study B,Dendritic cells,mDCs,HLA-DR,2793.424805
+Study B,Monocytes,ncMCs,HLA-DR,920.9649353
+Study B,Granulocytes,CD66+,HLA-DR,0.479678676
+Study B,Dendritic cells,pDC CD38+,HLA-DR,2279.527954
+Study B,Dendritic cells,pDCs,HLA-DR,2190.417236
