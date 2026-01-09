@@ -1,0 +1,44 @@
+﻿index,VXA,WCCT
+1,B Cells Plasma STAT5+,B.cells.plasma.STAT5+
+2,Basophils,Basophils
+3,B Cells,Bcells
+4,B Cells CSM,Bcells.CSM
+5,B Cells NCSM,Bcells.NCSM
+6,B Cells Plasma,Bcells.plasma
+7,CD66+,CD66+
+8,cMCs,cMCs
+9,intMCs,intMCs
+10,mDCs,mDC
+11,ncMCs,ncMCs
+12,NK CD56+CD16- Cells,NK.CD56+CD16-
+13,NK CD56+CD16- Cells CD38+Ki67+,NK.CD56+CD16-.CD38+Ki67+
+14,NK CD56loCD16+ Cells,NK.CD56loCD16+
+15,NK CD56loCD16+ Cells CD38+Ki67+,NK.CD56loCD16+.CD38+Ki67+
+16,NKT Cells,NKT
+17,NKT Cells CD38+,NKT.CD38+
+18,pDCs,pDC
+19,pDC CD38+,pDC.CD38+
+20,CD3+,Tcells
+21,CD4-CD8- T Cells,Tcells.CD4-CD8-
+22,CD4-CD8- T Cells CD38+,Tcells.CD4-CD8-CD38+
+23,CD4-CD8- T Cells CD38+Ki67+,Tcells.CD4-CD8-CD38+Ki67+
+24,CD4 T Cells,Tcells.CD4+
+25,CD4 T Cells CD161+,Tcells.CD4+.CD161+
+26,CD4 T Cells CD38+,Tcells.CD4+.CD38+
+27,CD4 T Cells CD38+Ki67+,Tcells.CD4+.CD38+Ki67+
+28,CD4 T Cells Memory,Tcells.CD4+.Memory
+29,CD4 T Cells Memory CD38+,Tcells.CD4+.Memory.CD38+
+30,CD4 T Cells Memory CD38+Ki67+,Tcells.CD4+.Memory.CD38+Ki67+
+31,CD4+CD8+ T Cells,Tcells.CD4+CD8+
+32,CD4+CD8+ T Cells CD38+,Tcells.CD4+CD8+CD38+
+33,CD4+CD8+ T Cells CD38+Ki67+,Tcells.CD4+CD8+CD38+Ki67+
+34,CD8 T Cells,Tcells.CD8+
+35,CD8 T Cells CD161+,Tcells.CD8+.CD161+
+36,CD8 T Cells CD38+,Tcells.CD8+.CD38+
+37,CD8 T Cells CD38+Ki67+,Tcells.CD8+.CD38+Ki67+
+38,CD8 T Cells CD45RA+CD27- CD38+,Tcells.CD8+.Effector.CD38+
+39,CD8 T Cells CD45RA+CD27- CD38+Ki67+,Tcells.CD8+.Effector.CD38+Ki67+
+40,CD8 T Cells Memory,Tcells.CD8+.Memory
+41,CD8 T Cells Memory CD38+,Tcells.CD8+.Memory.CD38+
+42,CD8 T Cells Memory CD38+Ki67+,Tcells.CD8+.Memory.CD38+Ki67+
+43,CD8 T Cells CD45RA+CD27-,Tcells.CD8+CD45RA+CD27-
